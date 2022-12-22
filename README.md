@@ -1,3 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=시작이%20반&20render&fontSize=90&fontColor=3F3F3F&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=시작이%20반&20render&fontSize=90&fontColor=3F3F3F&fontAlign=70)
 
 근데 어찌할지 모르는...
